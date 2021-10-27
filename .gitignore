@@ -1,0 +1,5 @@
+.deps/
+autom4te.cache/
+virtualenv
+*.so
+Makefile
